@@ -6,18 +6,16 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anabmaia.ListaDeTarefas"
     },
     "android": {
-
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "com.anabmaia.ListaDeTarefas"
     },
-    "web": {
-    },
+    "web": {},
     "extra": {
       "eas": {
         "projectId": "a659e205-cbb2-4828-8aef-91dac385297a"
